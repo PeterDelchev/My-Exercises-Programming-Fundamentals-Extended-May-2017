@@ -1,0 +1,12 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\Problem 1. Debit Card Number\obj\Debug\Problem 1. Debit Card Number.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\Problem 1. Debit Card Number.csprojResolveAssemblyReference.cache

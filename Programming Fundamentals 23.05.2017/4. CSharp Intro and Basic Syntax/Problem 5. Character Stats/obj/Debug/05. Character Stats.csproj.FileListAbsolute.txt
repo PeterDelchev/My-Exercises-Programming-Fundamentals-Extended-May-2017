@@ -1,0 +1,6 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\05. Character Stats\bin\Debug\_05.Character_Stats.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\05. Character Stats\bin\Debug\_05.Character_Stats.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\05. Character Stats\bin\Debug\_05.Character_Stats.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\05. Character Stats\obj\Debug\05. Character Stats.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\05. Character Stats\obj\Debug\_05.Character_Stats.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\05. Character Stats\obj\Debug\_05.Character_Stats.pdb
