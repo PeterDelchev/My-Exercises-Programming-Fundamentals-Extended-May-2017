@@ -1,0 +1,14 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\Problem 3. Employee Data\bin\Debug\Problem_3.Employee_Data.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\Problem 3. Employee Data\bin\Debug\Problem_3.Employee_Data.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\Problem 3. Employee Data\bin\Debug\Problem_3.Employee_Data.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\Problem 3. Employee Data\obj\Debug\Problem_3.Employee_Data.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\Problem 1. Greeting\Problem 3. Employee Data\obj\Debug\Problem_3.Employee_Data.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 3. Employee Data\bin\Debug\Problem_3.Employee_Data.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 3. Employee Data\obj\Debug\Problem_3.Employee_Data.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 3. Employee Data\obj\Debug\Problem_3.Employee_Data.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 3. Employee Data\bin\Debug\Problem_3.Employee_Data.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 3. Employee Data\bin\Debug\Problem_3.Employee_Data.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 3. Employee Data\obj\Debug\Problem 3. Employee Data.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\1. CSharp Intro and Basic Syntax\Problem 3. Employee Data\bin\Debug\Problem_3.Employee_Data.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\1. CSharp Intro and Basic Syntax\Problem 3. Employee Data\obj\Debug\Problem_3.Employee_Data.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\1. CSharp Intro and Basic Syntax\Problem 3. Employee Data\obj\Debug\Problem_3.Employee_Data.pdb
