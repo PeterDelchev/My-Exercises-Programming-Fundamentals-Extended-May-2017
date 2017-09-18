@@ -1,0 +1,6 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 1. Greeting\bin\Debug\CSharp Intro and Basic Syntax.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 1. Greeting\bin\Debug\CSharp Intro and Basic Syntax.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 1. Greeting\bin\Debug\CSharp Intro and Basic Syntax.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 1. Greeting\obj\Debug\CSharp Intro and Basic Syntax.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 1. Greeting\obj\Debug\CSharp Intro and Basic Syntax.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Programming Fundamentals 23.05.2017\CSharp Intro and Basic Syntax\Problem 1. Greeting\obj\Debug\Problem 1. Greeting.csprojResolveAssemblyReference.cache
