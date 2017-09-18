@@ -1,0 +1,5 @@
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 8. Sum of Odd Numbers\bin\Debug\Problem_8.Sum_of_Odd_Numbers.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 8. Sum of Odd Numbers\bin\Debug\Problem_8.Sum_of_Odd_Numbers.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 8. Sum of Odd Numbers\bin\Debug\Problem_8.Sum_of_Odd_Numbers.pdb
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 8. Sum of Odd Numbers\obj\Debug\Problem_8.Sum_of_Odd_Numbers.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 8. Sum of Odd Numbers\obj\Debug\Problem_8.Sum_of_Odd_Numbers.pdb

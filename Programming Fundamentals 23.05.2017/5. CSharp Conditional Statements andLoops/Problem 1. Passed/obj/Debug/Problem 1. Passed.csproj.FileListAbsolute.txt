@@ -1,0 +1,6 @@
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 1. Passed\bin\Debug\Problem_1.Passed.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 1. Passed\bin\Debug\Problem_1.Passed.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 1. Passed\bin\Debug\Problem_1.Passed.pdb
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 1. Passed\obj\Debug\Problem 1. Passed.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 1. Passed\obj\Debug\Problem_1.Passed.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 1. Passed\obj\Debug\Problem_1.Passed.pdb

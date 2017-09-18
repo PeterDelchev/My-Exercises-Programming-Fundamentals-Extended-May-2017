@@ -1,0 +1,6 @@
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.pdb
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 6. Theatre Promotions\obj\Debug\Problem 6. Theatre Promotions.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 6. Theatre Promotions\obj\Debug\Problem_6.Theatre_Promotions.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 6. Theatre Promotions\obj\Debug\Problem_6.Theatre_Promotions.pdb

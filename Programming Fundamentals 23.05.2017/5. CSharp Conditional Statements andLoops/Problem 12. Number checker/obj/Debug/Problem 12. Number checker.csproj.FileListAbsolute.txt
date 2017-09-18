@@ -1,0 +1,5 @@
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 12. Number checker\bin\Debug\Problem_12.Number_checker.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 12. Number checker\bin\Debug\Problem_12.Number_checker.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 12. Number checker\bin\Debug\Problem_12.Number_checker.pdb
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 12. Number checker\obj\Debug\Problem_12.Number_checker.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 12. Number checker\obj\Debug\Problem_12.Number_checker.pdb

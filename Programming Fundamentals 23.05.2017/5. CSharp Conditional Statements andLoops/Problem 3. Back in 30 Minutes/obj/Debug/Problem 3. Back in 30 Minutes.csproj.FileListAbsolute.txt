@@ -1,0 +1,5 @@
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 3. Back in 30 Minutes\bin\Debug\Problem_3.Back_in_30_Minutes.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 3. Back in 30 Minutes\bin\Debug\Problem_3.Back_in_30_Minutes.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 3. Back in 30 Minutes\bin\Debug\Problem_3.Back_in_30_Minutes.pdb
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 3. Back in 30 Minutes\obj\Debug\Problem_3.Back_in_30_Minutes.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 3. Back in 30 Minutes\obj\Debug\Problem_3.Back_in_30_Minutes.pdb

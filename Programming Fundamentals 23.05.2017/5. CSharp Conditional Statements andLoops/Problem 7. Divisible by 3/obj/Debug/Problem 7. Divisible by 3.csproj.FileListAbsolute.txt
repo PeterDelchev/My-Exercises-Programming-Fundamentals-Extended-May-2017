@@ -1,0 +1,5 @@
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 7. Divisible by 3\bin\Debug\Problem_7.Divisible_by_3.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 7. Divisible by 3\bin\Debug\Problem_7.Divisible_by_3.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 7. Divisible by 3\bin\Debug\Problem_7.Divisible_by_3.pdb
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 7. Divisible by 3\obj\Debug\Problem_7.Divisible_by_3.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 7. Divisible by 3\obj\Debug\Problem_7.Divisible_by_3.pdb

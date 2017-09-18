@@ -1,0 +1,6 @@
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 4. Month Printer\bin\Debug\Problem_4.Month_Printer.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 4. Month Printer\bin\Debug\Problem_4.Month_Printer.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 4. Month Printer\bin\Debug\Problem_4.Month_Printer.pdb
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 4. Month Printer\obj\Debug\Problem 4. Month Printer.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 4. Month Printer\obj\Debug\Problem_4.Month_Printer.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 4. Month Printer\obj\Debug\Problem_4.Month_Printer.pdb

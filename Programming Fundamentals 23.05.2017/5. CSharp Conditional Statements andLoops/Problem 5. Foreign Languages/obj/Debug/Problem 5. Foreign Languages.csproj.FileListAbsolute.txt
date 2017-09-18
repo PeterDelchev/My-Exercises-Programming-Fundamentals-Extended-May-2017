@@ -1,0 +1,6 @@
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 5. Foreign Languages\bin\Debug\Problem_5.Foreign_Languages.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 5. Foreign Languages\bin\Debug\Problem_5.Foreign_Languages.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 5. Foreign Languages\bin\Debug\Problem_5.Foreign_Languages.pdb
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 5. Foreign Languages\obj\Debug\Problem 5. Foreign Languages.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 5. Foreign Languages\obj\Debug\Problem_5.Foreign_Languages.exe
+c:\users\user1\documents\visual studio 2015\Projects\2. CSharp Conditional Statements andLoops\Problem 5. Foreign Languages\obj\Debug\Problem_5.Foreign_Languages.pdb
